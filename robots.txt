@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MIAPROT.github.io/readme-e5svsp/sitemap.xml
